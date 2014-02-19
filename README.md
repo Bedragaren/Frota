@@ -137,7 +137,7 @@ An addon for Dota 2, It is a framework for sub game modes. Players connect to a 
  - Hungarian by [Easimer][4]
  - Nyx by penguinwizzard
  - Polish by [Kobb][8]
- - Russian by [lokkdokk][2], [Shuker][3]
+ - Russian by [lokkdokk][2], [Shuker][3], Bedragaren
  - Chinese by [cs-italy][10]
  - Spanish by JosDW
  - Turkish by ozen
